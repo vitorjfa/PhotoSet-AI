@@ -130,7 +130,6 @@ Nenhum! A aplicação roda diretamente no navegador sem necessidade de instalaç
 - EOS Rebel T7/2000D, T8i/850D, SL3/250D
 - EOS M50 Mark II, R50, RP
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 ### Nikon (6 modelos)
 - D3500, D5600, D7500
 - Z50, Z5, Z fc
@@ -249,6 +248,8 @@ Se este projeto te ajudou a fazer uma foto melhor, a entender sua câmera, ou si
 **📸 Boas fotos e bom aprendizado!**
 
 ---
+
+<img width="300" height="119" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 
 <div align="center">
 
